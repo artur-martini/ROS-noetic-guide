@@ -2,13 +2,13 @@
 some instructions to install ros noetic and pkgs 
 
 
-## install guide
+## Installation guide
 
-1 - INstall ROS Noetic
-(Reference:) 
+1 - Install ROS Noetic
+(Ref: http://wiki.ros.org/noetic/Installation/Ubuntu) Just follow this :)
 
 2 - Build the workspace
-(Reference: http://wiki.ros.org/catkin/Tutorials/create_a_workspace)
+(Ref: http://wiki.ros.org/catkin/Tutorials/create_a_workspace)
 
 `source /opt/ros/noetic/setup.bash`
 
@@ -21,3 +21,4 @@ First time with python3 must use: `catkin_make -DPYTHON_EXECUTABLE=/usr/bin/pyth
 `source devel/setup.bash`
 
 `echo $ROS_PACKAGE_PATH`
+
