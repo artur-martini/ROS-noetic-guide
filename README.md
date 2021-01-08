@@ -32,3 +32,4 @@ First time with python3 must use: `catkin_make -DPYTHON_EXECUTABLE=/usr/bin/pyth
 (Ref: https://github.com/basler/pylon-ros-camera)
 
 `sudo apt install python3-rosdep2`
+`rosdep update`
