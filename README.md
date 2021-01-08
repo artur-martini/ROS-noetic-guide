@@ -17,5 +17,7 @@ some instructions to install ros noetic and pkgs
 `cd my_ws` 
 
 First time with python3 must use: `catkin_make -DPYTHON_EXECUTABLE=/usr/bin/python3` to make the ws
+
 `source devel/setup.bash`
+
 `echo $ROS_PACKAGE_PATH`
